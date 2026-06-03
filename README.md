@@ -31,8 +31,8 @@ An actor that can be placed in the world to attract/repel Boids by applying stee
 A tutorial level demonstrating how the systems work. Tweak the flock settings, add obstacles, or modify assets to see how the flock's behavior changes.
 
 ## Project Details
-Engine: Unreal Engine 4  
-Version: 4.25  
+Engine: Unreal Engine 5  
+Version: 5.7  
 Language: C++  
 
 ## References
